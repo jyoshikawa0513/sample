@@ -1,4 +1,4 @@
 def hello
-  p "hello, Git."
+  p "hello, javascript."
 end
 hello
