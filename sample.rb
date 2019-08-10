@@ -1,4 +1,4 @@
 def hello
-  p "hello, jquery."
+  p "hello, java."
 end
 hello
